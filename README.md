@@ -52,8 +52,6 @@ HackTheBox Certified Penetration Tester Specialist Cheatsheet based on CPTS Path
 
 
 
-```
-
 ## NMAP
 #### Nmap address scanning
 ```
